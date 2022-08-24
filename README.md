@@ -5,7 +5,7 @@ Zenmachi Here or u can call me Zen. Man who trying to learn about game stuff and
 
 ## About me 😳
 
-- 🕹 Still Learning about : Unity and Kotlin
+- 🕹 Still Learning about : Flutter and Kotlin
 - 🎨 Likes draw too sometimes
 - 👋 U can add me in : 
   - [Discord](https://discord.gg/user/Dokari4#8865)
