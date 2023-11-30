@@ -4,6 +4,8 @@
 Zenmachi Here or u can call me Zen. Man who trying to learn about game stuff and mobile programming. Also a weeb
 
 &nbsp;
+&nbsp;
+&nbsp;
 
 ## About me 😳
 
